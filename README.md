@@ -23,14 +23,11 @@ Here are some ideas to get you started:
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/detoro/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a href=",artade00@hotmail.com">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
 </div>
 
-
+<div id="top" align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=villadetoro&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 
 
 ### Contact: 
