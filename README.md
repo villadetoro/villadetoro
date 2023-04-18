@@ -25,7 +25,8 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=villadetoro&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=villadetoro)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ### Contact: 
