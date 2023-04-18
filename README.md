@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 -->
 
 
-<div id="header" align="center">
+<div id="header">
   <img src="https://media.giphy.com/media/hmdApHQb2hdfdKu6jg/giphy.gif" width="100"/>
 </div>
 
-<div id="badges" align="center">
+<div id="badges">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/detoro/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
