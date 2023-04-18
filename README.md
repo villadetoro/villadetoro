@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **villadetoro/villadetoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,8 +19,13 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hmdApHQb2hdfdKu6jg/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/detoro/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+
+### Contact: 
+· detorosanchez00@gmail.com
+
