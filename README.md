@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 
 
 ### Contact: 
-detorosanchez00@gmail.com
+detorosanchez0@gmail.com
 
